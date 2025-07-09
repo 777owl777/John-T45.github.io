@@ -761,7 +761,7 @@ p {
 }
 
 .item-card > div > picture::before {
-  content: "Blockchain Develpment";
+  content: "Langchain Develpment";
   display: flex;
   flex-direction: column;
   align-items: flex-end;
